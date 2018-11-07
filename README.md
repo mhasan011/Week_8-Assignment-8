@@ -46,11 +46,17 @@ Vulnerability #2: Username Enumeration => It can perform if web application give
 
 GIF Walkthrough:
 
+![green_userenum](https://user-images.githubusercontent.com/42792775/48117090-139d7e00-e236-11e8-8ce9-cafc4aa4cfe2.gif)
+
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference => The red color site is missing code which would prevent some sensitive information from being made public.
+
+GIF Walkthrough:
+
+
 
 Vulnerability #2: __________________
 

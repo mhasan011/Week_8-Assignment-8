@@ -38,9 +38,14 @@ Vulnerability #1: Cross-Site Scripting (XSS).
 
 GIF Walkthrough:
 
+![green_xss](https://user-images.githubusercontent.com/42792775/48116963-9d991700-e235-11e8-9331-88196646fca8.gif)
 
 
-Vulnerability #2: __________________
+
+Vulnerability #2: Username Enumeration => It can perform if web application gives hints whether user exists or not.
+
+GIF Walkthrough:
+
 
 
 ## Red

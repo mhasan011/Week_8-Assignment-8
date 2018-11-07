@@ -64,8 +64,9 @@ Vulnerability #2: Cross-Site Request Forgery => the red color site does not have
 
 GIF Walkthrough:
 
+![red_csrf](https://user-images.githubusercontent.com/42792775/48117365-f61ce400-e236-11e8-944c-2d576528faad.gif)
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+I had some challenges doing the lab 8, especially from challenge 6 to 9.

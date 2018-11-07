@@ -28,12 +28,17 @@ Vulnerability #2: SQL Injection
 
 GIF Walkthrough:
 
+![blue_sqli](https://user-images.githubusercontent.com/42792775/48116826-42ffbb00-e235-11e8-8128-53441640b969.gif)
 
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting (XSS).
+
+GIF Walkthrough:
+
+
 
 Vulnerability #2: __________________
 

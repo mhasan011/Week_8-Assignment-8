@@ -56,9 +56,14 @@ Vulnerability #1: Insecure Direct Object Reference => The red color site is miss
 
 GIF Walkthrough:
 
+![red_idor](https://user-images.githubusercontent.com/42792775/48117236-8f97c600-e236-11e8-8b2c-b19307e0d358.gif)
 
 
-Vulnerability #2: __________________
+
+Vulnerability #2: Cross-Site Request Forgery => the red color site does not have CSRF protections on the admin area. A smart hacker could design a form which would automatically submit form data to the staff area and take advantage of a logged in user's access permissions.
+
+GIF Walkthrough:
+
 
 
 ## Notes

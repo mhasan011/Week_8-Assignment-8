@@ -20,8 +20,15 @@ Vulnerability #1: Session Hijacking/Fixation: I can bypass the login by using an
 
 GIF Walkthrough:
 
+![blue_sessionid](https://user-images.githubusercontent.com/42792775/48116717-f320f400-e234-11e8-9384-4d419ff0f531.gif)
 
-Vulnerability #2: __________________
+
+
+Vulnerability #2: SQL Injection
+
+GIF Walkthrough:
+
+
 
 
 ## Green

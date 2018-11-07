@@ -18,6 +18,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session Hijacking/Fixation: I can bypass the login by using another browser session ID, which can lead to steal users information.
 
+GIF Walkthrough:
+
+
 Vulnerability #2: __________________
 
 

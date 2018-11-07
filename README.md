@@ -24,7 +24,7 @@ GIF Walkthrough:
 
 
 
-Vulnerability #2: SQL Injection
+Vulnerability #2: SQL Injection (SQLi) => The blue color site has one place where the input is not being sanitized before being used in an SQL query.
 
 GIF Walkthrough:
 
@@ -52,7 +52,7 @@ GIF Walkthrough:
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference => The red color site is missing code which would prevent some sensitive information from being made public.
+Vulnerability #1: Insecure Direct Object Reference (IDOR) => The red color site is missing code which would prevent some sensitive information from being made public.
 
 GIF Walkthrough:
 
@@ -60,7 +60,7 @@ GIF Walkthrough:
 
 
 
-Vulnerability #2: Cross-Site Request Forgery => the red color site does not have CSRF protections on the admin area. A smart hacker could design a form which would automatically submit form data to the staff area and take advantage of a logged in user's access permissions.
+Vulnerability #2: Cross-Site Request Forgery (CSRF) => the red color site does not have CSRF protections on the admin area. A smart hacker could design a form which would automatically submit form data to the staff area and take advantage of a logged in user's access permissions.
 
 GIF Walkthrough:
 
